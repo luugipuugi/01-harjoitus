@@ -1,0 +1,31 @@
+html{
+    font-size: 62.5%;
+    display: block;
+
+}
+body{
+    font-family: 'Oswald', sans-serif;
+    margin: 1rem;
+    padding: 1rem;
+    border: rgb(131, 159, 213) 1px solid;
+}
+figure {
+    display: block;
+    margin-block-start: 1rem;
+    margin-block-end: 1rem;
+ 
+}
+p{
+    font-size: 1.6rem;
+}
+h1{
+    font-size: 2.4rem;
+}
+h1, p, figure{
+    margin-block-end: 2rem;
+}
+
+figure img{
+    max-width: 100%;
+}
+
